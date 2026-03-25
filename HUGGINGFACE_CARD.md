@@ -22,21 +22,16 @@ tags:
 
 # Costo económico de los trastornos mentales: datos globales y América Latina 2020
 
-- **DOI:** [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII)
-- **GitHub:** [juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024](https://github.com/juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII) | **GitHub:** [juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024](https://github.com/juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII/files/data.csv")
+# See https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Costo económico de los trastornos mentales: datos globales y},year={2025},doi={https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII},url={https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII}}
 ```
