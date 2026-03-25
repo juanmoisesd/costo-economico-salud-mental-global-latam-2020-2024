@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0","wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "costo-economico-salud-mental"
+version = "1.0.0"
+description = "Costo economico trastornos mentales global y LATAM 2020-2024. DOI: 10.7910/DVN/GOHAII"
+license = {text = "CC0-1.0"}
+authors = [{name = "Juan Moises de la Serna", email = "juanmoises.delaserna@gmail.com"}]
+keywords = ["salud-mental","economia","PIB","productividad","America-Latina"]
+requires-python = ">=3.7"
+dependencies = ["pandas>=1.3.0","requests>=2.25.0","numpy>=1.20.0"]
+
+[project.urls]
+Homepage = "https://github.com/juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024"
+"DOI del dataset" = "https://doi.org/10.7910/DVN/GOHAII"
