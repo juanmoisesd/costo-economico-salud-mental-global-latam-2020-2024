@@ -1,0 +1,23 @@
+{
+  "title": "Costo económico de los trastornos mentales: datos globales y América Latina 2020",
+  "id": "juanmoisesd/costo-economico-salud-mental-global-latam-2020-202",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "america-latina",
+    "avad",
+    "dataset",
+    "economia",
+    "open-data",
+    "pib",
+    "productividad",
+    "salud-mental",
+    "open-data",
+    "research"
+  ],
+  "description": "Costo económico de los trastornos mentales: datos globales y América Latina 2020-2024. Pérdida PIB, productividad, AVAD. OMS, Banco Mundial, OPS. DOI: 10.7910/DVN/GOHAII\n\nDOI: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII\nGitHub: https://github.com/juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
