@@ -1,0 +1,26 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Costo económico de los trastornos mentales: datos globales y América Latina 2020-2024. Pérdida PIB, ",
+  "version": "1.0.0",
+  "identifier": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GOHAII",
+  "datePublished": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      }
+    }
+  ],
+  "programmingLanguage": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "keywords": "america-latina, avad, dataset, economia, open-data, pib, productividad, salud-mental"
+}
