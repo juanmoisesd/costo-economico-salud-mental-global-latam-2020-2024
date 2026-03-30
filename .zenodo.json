@@ -1,0 +1,37 @@
+{
+  "title": "Costo Economico Salud Mental Global Latin America 2020 2024",
+  "description": "Open research dataset: Costo Economico Salud Mental Global Latin America 2020 2024. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "economics",
+    "salud mental",
+    "mental health",
+    "global",
+    "latin america",
+    "open data",
+    "research",
+    "dataset"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/costo-economico-salud-mental-global-latam-2020-2024",
+      "scheme": "url"
+    }
+  ]
+}
